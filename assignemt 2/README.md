@@ -1,6 +1,6 @@
 # Assignment 2: Autonomous Research Agent
 
-A LangChain-based autonomous research agent that searches the web, extracts knowledge, and generates a structured research report. It supports multiple LLM providers and includes a Streamlit UI plus a CLI. Authored for Ravi Deo (System ID: 2023458249).
+A LangChain-based autonomous research agent that searches the web, extracts knowledge, and generates a structured research report. It supports multiple LLM providers and includes a Streamlit UI plus a CLI.
 
 ## Features
 
